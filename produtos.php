@@ -49,7 +49,7 @@
                     {
                       print "<tr>";
                       print "<td>".$linhas->cliId."</td>";
-                      print "<td>".$linhas->proNome."</td>"     ;
+                      print "<td>".$linhas->proNome."</td>"                            ;
                       print "<td>".$linhas->proQtd  ."</td>";
                       print "<td>".$linhas->proValor."</td>";
                       print "<td>
